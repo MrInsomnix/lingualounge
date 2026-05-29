@@ -6,8 +6,260 @@
     "tagKey": "res.tag.website"
   },
   {
+    "title": "DW Nicos Weg A1",
+    "url": "https://learngerman.dw.com/de/nicos-weg/c-36519687",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "DW Nicos Weg A2",
+    "url": "https://learngerman.dw.com/de/nicos-weg/c-36519709",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "DW Deutschtrainer",
+    "url": "https://learngerman.dw.com/en/deutschtrainer/c-56705009",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "DW Placement Test",
+    "url": "https://learngerman.dw.com/de/placementDashboard",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "DW Top-Thema",
+    "url": "https://www.dw.com/de/deutsch-lernen/top-thema/s-8031",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "DW Langsam gesprochene Nachrichten",
+    "url": "https://www.dw.com/de/deutsch-lernen/langsam-gesprochene-nachrichten/s-8030",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
     "title": "Goethe-Institut exercises",
-    "url": "https://www.goethe.de/en/spr/ueb.html",
+    "url": "https://www.goethe.de/de/spr/ueb.html",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Goethe-Institut Basic A1-A2",
+    "url": "https://www.goethe.de/de/spr/ueb/ele.html",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Goethe-Institut Deutschtrainer A1",
+    "url": "https://www.goethe.de/de/spr/ueb/dt1.html",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Goethe-Institut Deutsch am Arbeitsplatz",
+    "url": "https://www.goethe.de/de/spr/ueb/daa.html",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Goethe-Institut Prüfungstraining",
+    "url": "https://www.goethe.de/de/spr/prf/ueb.html",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "vhs A1-Deutschkurs",
+    "url": "https://a1.vhs-lernportal.de/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "vhs A2-Deutschkurs",
+    "url": "https://a2.vhs-lernportal.de/wws/home.php",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "vhs B1-Deutschkurs",
+    "url": "https://b1.vhs-lernportal.de/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "vhs B2 Deutsch Beruf",
+    "url": "https://b2-beruf.vhs-lernportal.de/wws/home.php",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "deutsch.info courses",
+    "url": "https://deutsch.info/courses",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "deutsch.info grammar",
+    "url": "https://deutsch.info/grammar",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "deutsch.info tests",
+    "url": "https://deutsch.info/tests",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lingolia German grammar",
+    "url": "https://deutsch.lingolia.com/de/grammatik",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lingolia German vocabulary",
+    "url": "https://deutsch.lingolia.com/de/wortschatz",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lingolia German reading",
+    "url": "https://deutsch.lingolia.com/de/leseverstehen",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lingolia German listening",
+    "url": "https://deutsch.lingolia.com/de/hoerverstehen",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Schubert Verlag A1 exercises",
+    "url": "https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_uebungen_index.htm",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Schubert Verlag A2 exercises",
+    "url": "https://www.schubert-verlag.de/aufgaben/uebungen_a2/a2_uebungen_index.htm",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Schubert Verlag B1 exercises",
+    "url": "https://www.schubert-verlag.de/aufgaben/uebungen_b1/b1_uebungen_index.htm",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Schubert Verlag B2 exercises",
+    "url": "https://www.schubert-verlag.de/aufgaben/uebungen_b2/b2_erkund_uebungen_index.htm",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "mein-deutschbuch grammar",
+    "url": "https://mein-deutschbuch.de/grammatik.html",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "mein-deutschbuch online exercises",
+    "url": "https://mein-deutschbuch.de/online-uebungen.html",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "mein-deutschbuch A1 exercises",
+    "url": "https://mein-deutschbuch.de/niveau-a1.html",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "mein-deutschbuch B1 exercises",
+    "url": "https://mein-deutschbuch.de/niveau-b1.html",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Grammatiktraining exercises",
+    "url": "https://grammatiktraining.de/uebungen.html",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Grammatiktraining sentence structure",
+    "url": "https://grammatiktraining.de/satzbau/satzbaumenue.html",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "German.net exercises",
+    "url": "https://german.net/exercises/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "German.net reading",
+    "url": "https://german.net/reading/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "German.net vocabulary",
+    "url": "https://german.net/vocabulary/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Deutschlernerblog online exercises",
+    "url": "https://deutschlernerblog.de/deutsch-online-lernen-uebungen-deutsch-uebungen-online/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Deutschlernerblog listening A1-C2",
+    "url": "https://deutschlernerblog.de/hoerverstehen-deutsch-uebungen-zum-hoerverstehen-a1-bis-c2/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Deutsch-to-go listening texts",
+    "url": "https://www.deutsch-to-go.de/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lingua German listening",
+    "url": "https://lingua.com/de/deutsch/hoeren/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Easy Deutsch German cases",
+    "url": "https://easy-deutsch.com/nouns/german-cases/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Klett DaF online exercises",
+    "url": "https://www.klett-sprachen.de/digitales/online-uebungen/online-uebungen-daf/c-867",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "TestDaF digital practice",
+    "url": "https://www.testdaf.de/de/teilnehmende/der-digitale-testdaf/vorbereitung-auf-den-digitalen-testdaf/beispielaufgaben-zum-digitalen-testdaf/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Verbformen German conjugation",
+    "url": "https://www.verbformen.com/conjugation/",
     "descriptionKey": "res.website.desc",
     "tagKey": "res.tag.website"
   },
