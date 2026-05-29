@@ -1,0 +1,9 @@
+{
+  "name": "LinguaLounge",
+  "short_name": "LinguaLounge",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080b14",
+  "theme_color": "#ffcc1d",
+  "icons": []
+}

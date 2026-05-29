@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="LinguaLounge is an international Discord community for language learners.">
+  <title>LinguaLounge</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="icon" href="assets/brand/Logo.gif">
+</head>
+<body>
+<header class="site-header">
+  <div class="container navbar">
+    <a class="brand" href="index.html" aria-label="LinguaLounge home">
+      <img class="brand-gif" src="assets/brand/Logo.gif" alt="LinguaLounge animated logo">
+      <img class="brand-wordmark" src="assets/brand/Schriftzug.png" alt="LinguaLounge">
+    </a>
+    <nav class="nav-menu" aria-label="Main navigation"><a class="nav-link active" href="index.html" data-i18n="nav.home"></a><a class="nav-link " href="resources.html" data-i18n="nav.resources"></a><a class="nav-link " href="community.html" data-i18n="nav.community"></a><a class="nav-link " href="rules.html" data-i18n="nav.rules"></a><a class="nav-link " href="faq.html" data-i18n="nav.faq"></a><a class="nav-link " href="join.html" data-i18n="nav.join"></a></nav>
+    <div class="nav-actions">
+      <select id="languageSwitcher" class="lang-select" aria-label="Website language"></select>
+      <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle color theme"><span>☀️</span><span>🌙</span></button>
+      <a class="discord-mini" href="https://discord.gg/2xuchf2VnN" target="_blank" rel="noopener" data-i18n="nav.discord"></a>
+    </div>
+    <button id="menuButton" class="menu-button" type="button" data-i18n-aria="mobile.menu"><span></span><span></span><span></span></button>
+  </div>
+</header>
+<main>
+<section class="hero">
+  <div class="container hero-grid">
+    <div>
+      <span class="eyebrow" data-i18n="home.badge"></span>
+      <h1 data-i18n="home.title"></h1>
+      <p class="lead" data-i18n="home.lead"></p>
+      <div class="hero-actions">
+        <a class="btn primary" href="https://discord.gg/2xuchf2VnN" target="_blank" rel="noopener" data-i18n="home.primary"></a>
+        <a class="btn secondary" href="resources.html" data-i18n="home.secondary"></a>
+      </div>
+    </div>
+    <div class="hero-panel">
+      <img class="banner" src="assets/brand/LinguaBanner.jpg" alt="LinguaLounge banner">
+      <img class="floating-logo" src="assets/brand/Logo.gif" alt="LinguaLounge logo">
+      <div class="stats">
+        <div class="stat"><strong>7</strong><span data-i18n="common.available"></span></div>
+        <div class="stat"><strong>PDF · Web · YT</strong><span data-i18n="common.curatedResources"></span></div>
+        <div class="stat"><strong data-i18n="common.practiceStatValue"></strong><span data-i18n="common.realConversations"></span></div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="grid cards">
+      <article class="card"><div class="card-icon">👥</div><h3 data-i18n="home.card1.title"></h3><p data-i18n="home.card1.text"></p></article>
+      <article class="card"><div class="card-icon">🎤</div><h3 data-i18n="home.card2.title"></h3><p data-i18n="home.card2.text"></p></article>
+      <article class="card"><div class="card-icon">📖</div><h3 data-i18n="home.card3.title"></h3><p data-i18n="home.card3.text"></p></article>
+      <article class="card"><div class="card-icon">🤖</div><h3 data-i18n="home.card4.title"></h3><p data-i18n="home.card4.text"></p></article>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <div><h2 data-i18n="home.languagesTitle"></h2><p data-i18n="home.languagesText"></p></div>
+      <a class="btn ghost" href="resources.html" data-i18n="nav.resources"></a>
+    </div>
+    <div id="homeLanguageGrid" class="language-grid"></div>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand"><img src="assets/brand/Logo.gif" alt=""><span>LinguaLounge</span></div>
+    <p data-i18n="footer.text"></p>
+  </div>
+</footer>
+<script src="assets/js/i18n.js"></script>
+<script src="assets/js/resources-data.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

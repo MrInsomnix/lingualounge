@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="LinguaLounge is an international Discord community for language learners.">
+  <title>LinguaLounge</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="icon" href="assets/brand/Logo.gif">
+</head>
+<body>
+<header class="site-header">
+  <div class="container navbar">
+    <a class="brand" href="index.html" aria-label="LinguaLounge home">
+      <img class="brand-gif" src="assets/brand/Logo.gif" alt="LinguaLounge animated logo">
+      <img class="brand-wordmark" src="assets/brand/Schriftzug.png" alt="LinguaLounge">
+    </a>
+    <nav class="nav-menu" aria-label="Main navigation"><a class="nav-link " href="index.html" data-i18n="nav.home"></a><a class="nav-link " href="resources.html" data-i18n="nav.resources"></a><a class="nav-link " href="community.html" data-i18n="nav.community"></a><a class="nav-link " href="rules.html" data-i18n="nav.rules"></a><a class="nav-link active" href="faq.html" data-i18n="nav.faq"></a><a class="nav-link " href="join.html" data-i18n="nav.join"></a></nav>
+    <div class="nav-actions">
+      <select id="languageSwitcher" class="lang-select" aria-label="Website language"></select>
+      <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle color theme"><span>☀️</span><span>🌙</span></button>
+      <a class="discord-mini" href="https://discord.gg/2xuchf2VnN" target="_blank" rel="noopener" data-i18n="nav.discord"></a>
+    </div>
+    <button id="menuButton" class="menu-button" type="button" data-i18n-aria="mobile.menu"><span></span><span></span><span></span></button>
+  </div>
+</header>
+<main>
+<section class="hero"><div class="container"><span class="eyebrow">LinguaLounge</span><h1 data-i18n="faq.title"></h1><p class="lead" data-i18n="faq.lead"></p></div></section>
+<section class="section" style="padding-top:0"><div class="container"><div class="faq-grid"><details class="faq-item"><summary data-i18n="faq.q1"></summary><p data-i18n="faq.a1"></p></details><details class="faq-item"><summary data-i18n="faq.q2"></summary><p data-i18n="faq.a2"></p></details><details class="faq-item"><summary data-i18n="faq.q3"></summary><p data-i18n="faq.a3"></p></details><details class="faq-item"><summary data-i18n="faq.q4"></summary><p data-i18n="faq.a4"></p></details><details class="faq-item"><summary data-i18n="faq.q5"></summary><p data-i18n="faq.a5"></p></details><details class="faq-item"><summary data-i18n="faq.q6"></summary><p data-i18n="faq.a6"></p></details><details class="faq-item"><summary data-i18n="faq.q7"></summary><p data-i18n="faq.a7"></p></details></div></div></section>
+</main>
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand"><img src="assets/brand/Logo.gif" alt=""><span>LinguaLounge</span></div>
+    <p data-i18n="footer.text"></p>
+  </div>
+</footer>
+<script src="assets/js/i18n.js"></script>
+<script src="assets/js/resources-data.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
