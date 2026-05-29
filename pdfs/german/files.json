@@ -16,5 +16,11 @@
     "description": "A beginner-friendly German textbook that explains grammar, vocabulary, and everyday phrases in a simple, practical way.",
     "file": "German-Made-Simple-by-Arnold-Leitner.pdf",
     "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Collins German 3000 words and phrases",
+    "description": "Common German words and everyday phrases.",
+    "file": "Collins_German_3000_words_and_phrases.pdf",
+    "tagKey": "res.tag.book"
   }
 ]
