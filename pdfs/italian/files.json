@@ -1,8 +1,8 @@
 [
   {
-    "titleKey": "res.reference.title",
-    "descriptionKey": "res.reference.desc",
-    "file": "italian-reference-sheet.pdf",
+    "title": "Italian IPA Alphabet",
+    "description": "A short pronunciation guide to the Italian alphabet using real IPA sounds.",
+    "file": "LinguaLounge_IPA_Italian.pdf",
     "tagKey": "res.tag.reference"
   }
 ]
