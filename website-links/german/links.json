@@ -1,0 +1,20 @@
+[
+  {
+    "title": "DW Learn German",
+    "url": "https://learngerman.dw.com/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Goethe-Institut exercises",
+    "url": "https://www.goethe.de/en/spr/ueb.html",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Wiktionary German",
+    "url": "https://en.wiktionary.org/wiki/Category:German_language",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  }
+]

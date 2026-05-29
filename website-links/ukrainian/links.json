@@ -1,0 +1,20 @@
+[
+  {
+    "title": "UkrainianLessons",
+    "url": "https://www.ukrainianlessons.com/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Omniglot Ukrainian",
+    "url": "https://www.omniglot.com/writing/ukrainian.htm",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Wiktionary Ukrainian",
+    "url": "https://en.wiktionary.org/wiki/Category:Ukrainian_language",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Russian Wiktionary category",
+    "url": "https://en.wiktionary.org/wiki/Category:Russian_language",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Omniglot Russian",
+    "url": "https://www.omniglot.com/writing/russian.htm",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Forvo Russian pronunciation",
+    "url": "https://forvo.com/languages/ru/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  }
+]

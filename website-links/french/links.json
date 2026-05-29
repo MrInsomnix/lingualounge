@@ -1,0 +1,20 @@
+[
+  {
+    "title": "TV5MONDE Apprendre",
+    "url": "https://apprendre.tv5monde.com/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "RFI Savoirs",
+    "url": "https://savoirs.rfi.fr/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Wiktionary French",
+    "url": "https://en.wiktionary.org/wiki/Category:French_language",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  }
+]

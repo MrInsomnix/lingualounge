@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Online Italian Club",
+    "url": "https://onlineitalianclub.com/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "ItalianDict",
+    "url": "https://www.italian-dictionary.net/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Wiktionary Italian",
+    "url": "https://en.wiktionary.org/wiki/Category:Italian_language",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  }
+]

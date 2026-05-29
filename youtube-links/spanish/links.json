@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.youtube.com/results?search_query=learn+Spanish+pronunciation",
+    "titleKey": "res.youtube.pron.title",
+    "descriptionKey": "res.youtube.pron.desc",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "url": "https://www.youtube.com/results?search_query=learn+Spanish+grammar",
+    "titleKey": "res.youtube.grammar.title",
+    "descriptionKey": "res.youtube.grammar.desc",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "url": "https://www.youtube.com/results?search_query=learn+Spanish+listening+practice",
+    "titleKey": "res.youtube.listen.title",
+    "descriptionKey": "res.youtube.listen.desc",
+    "tagKey": "res.tag.youtube"
+  }
+]

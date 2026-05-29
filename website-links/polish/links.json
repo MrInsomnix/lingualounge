@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Polish Wiktionary category",
+    "url": "https://en.wiktionary.org/wiki/Category:Polish_language",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Omniglot Polish",
+    "url": "https://www.omniglot.com/writing/polish.htm",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Forvo Polish pronunciation",
+    "url": "https://forvo.com/languages/pl/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  }
+]

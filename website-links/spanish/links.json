@@ -1,0 +1,20 @@
+[
+  {
+    "title": "SpanishDict",
+    "url": "https://www.spanishdict.com/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "StudySpanish",
+    "url": "https://studyspanish.com/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Wiktionary Spanish",
+    "url": "https://en.wiktionary.org/wiki/Category:Spanish_language",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  }
+]

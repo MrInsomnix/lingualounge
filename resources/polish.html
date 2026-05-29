@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="LinguaLounge is an international Discord community for language learners.">
+  <title>LinguaLounge</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/styles.css">
+  <link rel="icon" href="../assets/brand/Logo.gif">
+</head>
+<body data-resource-language="polish">
+<header class="site-header">
+  <div class="container navbar">
+    <a class="brand" href="../index.html" aria-label="LinguaLounge home">
+      <img class="brand-gif" src="../assets/brand/Logo.gif" alt="LinguaLounge animated logo">
+      <img class="brand-wordmark" src="../assets/brand/Schriftzug.png" alt="LinguaLounge">
+    </a>
+    <nav class="nav-menu" aria-label="Main navigation"><a class="nav-link " href="../index.html" data-i18n="nav.home"></a><a class="nav-link active" href="../resources.html" data-i18n="nav.resources"></a><a class="nav-link " href="../community.html" data-i18n="nav.community"></a><a class="nav-link " href="../rules.html" data-i18n="nav.rules"></a><a class="nav-link " href="../faq.html" data-i18n="nav.faq"></a><a class="nav-link " href="../join.html" data-i18n="nav.join"></a></nav>
+    <div class="nav-actions">
+      <select id="languageSwitcher" class="lang-select" aria-label="Website language"></select>
+      <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle color theme"><span>☀️</span><span>🌙</span></button>
+      <a class="discord-mini" href="https://discord.gg/2xuchf2VnN" target="_blank" rel="noopener" data-i18n="nav.discord"></a>
+    </div>
+    <button id="menuButton" class="menu-button" type="button" data-i18n-aria="mobile.menu"><span></span><span></span><span></span></button>
+  </div>
+</header>
+<main>
+<section class="hero">
+  <div class="container">
+    <div class="breadcrumb"><a href="../resources.html" data-i18n="resourcePage.breadcrumb"></a><span>/</span><span data-language-name="polish"></span></div>
+    <span class="eyebrow"><span>🇵🇱</span> <span data-language-name="polish"></span></span>
+    <h1 data-resource-title="polish"></h1>
+    <p class="lead" data-resource-lead="polish"></p>
+    <div class="hero-actions"><a class="btn secondary" href="../resources.html" data-i18n="common.backResources"></a></div>
+  </div>
+</section>
+<section class="section" style="padding-top:0">
+  <div class="container">
+    <div class="resource-tools">
+      <div class="tabs" aria-label="Resource filters">
+        <button class="tab active" type="button" data-resource-filter="all" data-i18n="common.all"></button>
+        <button class="tab" type="button" data-resource-filter="pdf" data-i18n="common.pdf"></button>
+        <button class="tab" type="button" data-resource-filter="website" data-i18n="common.websites"></button>
+        <button class="tab" type="button" data-resource-filter="youtube" data-i18n="common.youtube"></button>
+      </div>
+      <input id="resourceSearch" class="search" type="search" data-i18n-placeholder="common.search" autocomplete="off">
+    </div>
+    <div id="resourceList" class="resource-list"></div>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand"><img src="../assets/brand/Logo.gif" alt=""><span>LinguaLounge</span></div>
+    <p data-i18n="footer.text"></p>
+  </div>
+</footer>
+<script src="../assets/js/i18n.js"></script>
+<script src="../assets/js/resources-data.js"></script>
+<script src="../assets/js/app.js"></script>
+</body>
+</html>
