@@ -1,8 +1,8 @@
 [
   {
-    "titleKey": "res.reference.title",
-    "descriptionKey": "res.reference.desc",
-    "file": "french-reference-sheet.pdf",
+    "title": "French IPA Alphabet",
+    "description": "A short pronunciation guide to the French alphabet using real IPA sounds.",
+    "file": "LinguaLounge_IPA_French.pdf",
     "tagKey": "res.tag.reference"
   }
 ]
