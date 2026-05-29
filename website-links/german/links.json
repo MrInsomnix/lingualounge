@@ -114,30 +114,6 @@
     "tagKey": "res.tag.website"
   },
   {
-    "title": "Lingolia German grammar",
-    "url": "https://deutsch.lingolia.com/de/grammatik",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  },
-  {
-    "title": "Lingolia German vocabulary",
-    "url": "https://deutsch.lingolia.com/de/wortschatz",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  },
-  {
-    "title": "Lingolia German reading",
-    "url": "https://deutsch.lingolia.com/de/leseverstehen",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  },
-  {
-    "title": "Lingolia German listening",
-    "url": "https://deutsch.lingolia.com/de/hoerverstehen",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  },
-  {
     "title": "Schubert Verlag A1 exercises",
     "url": "https://www.schubert-verlag.de/aufgaben/uebungen_a1/a1_uebungen_index.htm",
     "descriptionKey": "res.website.desc",
@@ -198,24 +174,6 @@
     "tagKey": "res.tag.website"
   },
   {
-    "title": "German.net exercises",
-    "url": "https://german.net/exercises/",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  },
-  {
-    "title": "German.net reading",
-    "url": "https://german.net/reading/",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  },
-  {
-    "title": "German.net vocabulary",
-    "url": "https://german.net/vocabulary/",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  },
-  {
     "title": "Deutschlernerblog online exercises",
     "url": "https://deutschlernerblog.de/deutsch-online-lernen-uebungen-deutsch-uebungen-online/",
     "descriptionKey": "res.website.desc",
@@ -230,18 +188,6 @@
   {
     "title": "Deutsch-to-go listening texts",
     "url": "https://www.deutsch-to-go.de/",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  },
-  {
-    "title": "Lingua German listening",
-    "url": "https://lingua.com/de/deutsch/hoeren/",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  },
-  {
-    "title": "Easy Deutsch German cases",
-    "url": "https://easy-deutsch.com/nouns/german-cases/",
     "descriptionKey": "res.website.desc",
     "tagKey": "res.tag.website"
   },
