@@ -1,20 +1,68 @@
 [
   {
-    "url": "https://www.youtube.com/results?search_query=learn+French+pronunciation",
-    "titleKey": "res.youtube.pron.title",
-    "descriptionKey": "res.youtube.pron.desc",
+    "title": "Learn French With Alexa",
+    "url": "https://www.youtube.com/user/learnfrenchwithalexa",
+    "description": "French grammar, vocabulary, pronunciation, and structured lessons.",
     "tagKey": "res.tag.youtube"
   },
   {
-    "url": "https://www.youtube.com/results?search_query=learn+French+grammar",
-    "titleKey": "res.youtube.grammar.title",
-    "descriptionKey": "res.youtube.grammar.desc",
+    "title": "Easy French",
+    "url": "https://www.youtube.com/easyfrench",
+    "description": "Street interviews with subtitles and natural spoken French.",
     "tagKey": "res.tag.youtube"
   },
   {
-    "url": "https://www.youtube.com/results?search_query=learn+French+listening+practice",
-    "titleKey": "res.youtube.listen.title",
-    "descriptionKey": "res.youtube.listen.desc",
+    "title": "innerFrench",
+    "url": "https://www.youtube.com/@innerFrench",
+    "description": "Natural French videos and podcasts for listening practice.",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Français Authentique",
+    "url": "https://www.youtube.com/user/francaisauthentique",
+    "description": "Natural French listening, expressions, and fluency practice.",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Français avec Pierre",
+    "url": "https://www.youtube.com/FrancaisavecPierre",
+    "description": "French grammar, expressions, pronunciation, and learning tips.",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Comme une Française",
+    "url": "https://www.youtube.com/c/Commeunefrancaise",
+    "description": "Spoken French, everyday expressions, culture, and real usage.",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Piece of French",
+    "url": "https://www.youtube.com/pieceoffrench",
+    "description": "Real-life French vlogs with subtitles and everyday vocabulary.",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "The Perfect French with Dylane",
+    "url": "https://www.youtube.com/c/TheperfectfrenchwithDylane",
+    "description": "French grammar, pronunciation, conjugation, and clear explanations.",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "FrenchPod101",
+    "url": "https://www.youtube.com/@frenchpod101",
+    "description": "French vocabulary, phrases, listening practice, and culture.",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Parlez-vous FRENCH",
+    "url": "https://www.youtube.com/c/ParlezvousFRENCH/videos",
+    "description": "French grammar, pronunciation, dictations, and speaking tips.",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Podcast Français Facile",
+    "url": "https://www.youtube.com/@podcast_francais_facile",
+    "description": "French dialogues, listening practice, phrases, and pronunciation.",
     "tagKey": "res.tag.youtube"
   }
 ]
