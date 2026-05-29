@@ -1,20 +1,62 @@
 [
   {
-    "url": "https://www.youtube.com/results?search_query=learn+German+pronunciation",
-    "titleKey": "res.youtube.pron.title",
-    "descriptionKey": "res.youtube.pron.desc",
+    "title": "Easy German",
+    "description": "Authentic street interviews and real German with subtitles.",
+    "url": "https://www.youtube.com/@EasyGerman",
     "tagKey": "res.tag.youtube"
   },
   {
-    "url": "https://www.youtube.com/results?search_query=learn+German+grammar",
-    "titleKey": "res.youtube.grammar.title",
-    "descriptionKey": "res.youtube.grammar.desc",
+    "title": "DW Learn German",
+    "description": "Structured German videos and courses, including Nicos Weg.",
+    "url": "https://www.youtube.com/@dwlearngerman",
     "tagKey": "res.tag.youtube"
   },
   {
-    "url": "https://www.youtube.com/results?search_query=learn+German+listening+practice",
-    "titleKey": "res.youtube.listen.title",
-    "descriptionKey": "res.youtube.listen.desc",
+    "title": "Nicos Weg by DW",
+    "description": "A structured A1 to B1 video course for German learners.",
+    "url": "https://www.youtube.com/playlist?list=PLs7zUO7VPyJ5DV1iBRgSw2uDl832n0bLg",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Learn German with Anja",
+    "description": "Beginner-friendly German lessons for A1, A2 and B1 learners.",
+    "url": "https://www.youtube.com/@LearnGermanwithAnja",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "YourGermanTeacher",
+    "description": "Clear German grammar explanations for beginner and intermediate learners.",
+    "url": "https://www.youtube.com/@yourgermanteacher",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "lingoni GERMAN",
+    "description": "German lessons and practice videos for A1 to B2 learners.",
+    "url": "https://www.youtube.com/@lingoniGERMAN",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Deutsch mit Benjamin",
+    "description": "German pronunciation, listening and natural speaking practice.",
+    "url": "https://www.youtube.com/@DeutschMitBenjamin",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Benjamin - Der Deutschlehrer",
+    "description": "Vocabulary, grammar and speaking practice for intermediate learners.",
+    "url": "https://www.youtube.com/@BenjaminDerDeutschlehrer",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Deutsch mit Marija",
+    "description": "Advanced German videos for B2, C1 and C2 learners.",
+    "url": "https://www.youtube.com/@DeutschmitMarija",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Deutsch lernen durch Hören",
+    "description": "Listening practice with slow and clear German stories.",
+    "url": "https://www.youtube.com/@DeutschlernendurchHoren",
     "tagKey": "res.tag.youtube"
   }
 ]
