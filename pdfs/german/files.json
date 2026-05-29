@@ -22,5 +22,53 @@
     "description": "Common German words and everyday phrases.",
     "file": "Collins_German_3000_words_and_phrases.pdf",
     "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Café in Berlin",
+    "file": "learn-german-with-stories_-cafe-in-berlin.pdf",
+    "level": "A1-A2",
+    "description": "A1-A2: Short German stories with vocabulary and exercises."
+  },
+  {
+    "title": "Deutsch - German Language",
+    "file": "German.pdf",
+    "level": "A1-A2",
+    "description": "A1-A2: Basic phrases, vocabulary, grammar, and pronunciation."
+  },
+  {
+    "title": "Intermediate German",
+    "file": "Intermediate german.pdf",
+    "level": "B1-C1",
+    "description": "B1-C1: Grammar workbook for intermediate and advanced learners."
+  },
+  {
+    "title": "German Wikibook",
+    "file": "German_Wikibook.pdf",
+    "level": "A1-B1",
+    "description": "A1-B1: Open German textbook with lessons, grammar, and exercises."
+  },
+  {
+    "title": "German Learner's Dictionary",
+    "file": "German _ learn in 4 simple steps.pdf",
+    "level": "A1-B2",
+    "description": "A1-B2: German-English dictionary with phrases and examples."
+  },
+  {
+    "title": "Becoming Fluent in German",
+    "file": "becoming-fluent-in-german-150-short-stories-for-beginners-german-edition.pdf",
+    "level": "A2",
+    "description": "A2: 150 short stories with questions and key vocabulary."
+  },
+  {
+    "title": "A Foundation Course in Reading German",
+    "file": "A-Foundation-Course-in-Reading-German-1652727646.pdf",
+    "level": "A1-B2",
+    "description": "A1-B2: Reading-focused grammar course for formal German texts."
+  },
+  {
+    "title": "Basic German",
+    "file": "Basic german.pdf",
+    "level": "A1-A2",
+    "description": "A1-A2: Beginner grammar workbook with exercises and answers."
   }
 ]
