@@ -214,5 +214,31 @@
     "url": "https://en.wiktionary.org/wiki/Category:German_language",
     "descriptionKey": "res.website.desc",
     "tagKey": "res.tag.website"
+  },
+  [
+  {
+    "title": "Learn German Original",
+    "url": "https://learngermanoriginal.com/courses/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "YourDailyGerman",
+    "url": "https://yourdailygerman.com/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "German for English Speakers - Pronunciation",
+    "url": "https://germanforenglishspeakers.com/basics/pronunciation-consonants/",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "The German Project",
+    "url": "https://www.thegermanproject.com/german-lessons",
+    "descriptionKey": "res.website.desc",
+    "tagKey": "res.tag.website"
   }
+]
 ]
