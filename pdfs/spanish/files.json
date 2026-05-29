@@ -1,8 +1,8 @@
 [
   {
-    "titleKey": "res.reference.title",
-    "descriptionKey": "res.reference.desc",
-    "file": "spanish-reference-sheet.pdf",
+    "title": "Spanish IPA Alphabet",
+    "description": "A short pronunciation guide to the Spanish alphabet using real IPA sounds.",
+    "file": "LinguaLounge_IPA_Spanish.pdf",
     "tagKey": "res.tag.reference"
   }
 ]
