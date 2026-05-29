@@ -1,8 +1,8 @@
 [
   {
-    "titleKey": "res.reference.title",
-    "descriptionKey": "res.reference.desc",
-    "file": "german-reference-sheet.pdf",
+    "title": "German IPA Alphabet",
+    "description": "A short pronunciation guide to the German alphabet using real IPA sounds.",
+    "file": "LinguaLounge_IPA_German.pdf",
     "tagKey": "res.tag.reference"
   }
 ]
