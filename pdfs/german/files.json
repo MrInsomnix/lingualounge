@@ -4,10 +4,8 @@
     "description": "A short pronunciation guide to the German alphabet using real IPA sounds.",
     "file": "LinguaLounge_IPA_German.pdf",
     "tagKey": "res.tag.reference"
-  }
-],
-[
-  {
+  },
+    {
     "title": "German Made Simple by Arnold Leitner",
     "description": "A beginner-friendly German textbook that explains grammar, vocabulary, and everyday phrases in a simple, practical way.",
     "file": "German-Made-Simple-by-Arnold-Leitner.pdf",
