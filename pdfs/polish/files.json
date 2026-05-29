@@ -1,8 +1,8 @@
 [
   {
-    "titleKey": "res.reference.title",
-    "descriptionKey": "res.reference.desc",
-    "file": "polish-reference-sheet.pdf",
+    "title": "Polish IPA Alphabet",
+    "description": "A short pronunciation guide to the Polish alphabet using real IPA sounds.",
+    "file": "LinguaLounge_IPA_Polish.pdf",
     "tagKey": "res.tag.reference"
   }
 ]
