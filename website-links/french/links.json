@@ -1,20 +1,224 @@
 [
   {
-    "title": "TV5MONDE Apprendre",
-    "url": "https://apprendre.tv5monde.com/",
-    "descriptionKey": "res.website.desc",
+    "title": "TV5MONDE French Exercises",
+    "url": "https://apprendre.tv5monde.com/en/collection-all",
+    "description": "A1-B2: Free French exercises with videos and listening practice.",
     "tagKey": "res.tag.website"
   },
   {
-    "title": "RFI Savoirs",
-    "url": "https://savoirs.rfi.fr/",
-    "descriptionKey": "res.website.desc",
+    "title": "TV5MONDE A1 Exercises",
+    "url": "https://apprendre.tv5monde.com/en/exercices/a1-breakthrough",
+    "description": "A1: Beginner French exercises with videos and audio.",
     "tagKey": "res.tag.website"
   },
   {
-    "title": "Wiktionary French",
-    "url": "https://en.wiktionary.org/wiki/Category:French_language",
-    "descriptionKey": "res.website.desc",
+    "title": "TV5MONDE A2 Exercises",
+    "url": "https://apprendre.tv5monde.com/en/exercices/a2-waystage",
+    "description": "A2: Elementary French exercises with videos and audio.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "TV5MONDE B1 Exercises",
+    "url": "https://apprendre.tv5monde.com/en/exercices/b1-threshold",
+    "description": "B1: Intermediate French exercises with real videos.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "TV5MONDE B2 Exercises",
+    "url": "https://apprendre.tv5monde.com/en/exercices/b2-vantage",
+    "description": "B2: Upper-intermediate French exercises with authentic media.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "RFI Français Facile",
+    "url": "https://francaisfacile.rfi.fr/fr/",
+    "description": "French listening practice with news, exercises, audio, and transcripts.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "RFI Exercises",
+    "url": "https://francaisfacile.rfi.fr/fr/exercices/",
+    "description": "French exercises based on news, interviews, and short audio clips.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "RFI Journal en français facile",
+    "url": "https://francaisfacile.rfi.fr/fr/podcasts/journal-en-fran%C3%A7ais-facile/",
+    "description": "Slow French news podcast with transcripts and listening practice.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Bonjour de France",
+    "url": "https://www.bonjourdefrance.com/",
+    "description": "French lessons, exercises, dictations, and level tests.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lawless French Lessons by Level",
+    "url": "https://www.lawlessfrench.com/faq/lessons-by-level/",
+    "description": "A1-C1: French lessons sorted by CEFR level.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lawless French Grammar",
+    "url": "https://www.lawlessfrench.com/grammar/",
+    "description": "French grammar explanations with examples and practice links.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lawless French Vocabulary",
+    "url": "https://www.lawlessfrench.com/vocabulary/",
+    "description": "French vocabulary lists, expressions, and themed word practice.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lawless French Pronunciation",
+    "url": "https://www.lawlessfrench.com/pronunciation/",
+    "description": "French pronunciation guides for sounds, accents, and spoken French.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lawless French Listening",
+    "url": "https://www.lawlessfrench.com/listening/",
+    "description": "French listening practice with transcripts and comprehension help.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Podcast Français Facile",
+    "url": "https://www.podcastfrancaisfacile.com/",
+    "description": "French dialogues, dictations, grammar, vocabulary, audio, and PDFs.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Podcast Français Facile - Beginner Dialogues",
+    "url": "https://www.podcastfrancaisfacile.com/dialogue-debutant-francais",
+    "description": "A1-A2: Beginner French dialogues with audio and exercises.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Podcast Français Facile - Intermediate Dialogues",
+    "url": "https://www.podcastfrancaisfacile.com/apprendre-le-francais/french-communication-dialogue-daily-life-listen-to-mp3",
+    "description": "Intermediate French dialogues with audio, PDFs, and exercises.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Français interactif",
+    "url": "https://www.laits.utexas.edu/fi/",
+    "description": "First-year French course with videos, audio, vocabulary, and grammar.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Tex's French Grammar",
+    "url": "https://www.laits.utexas.edu/tex/",
+    "description": "French grammar explanations with examples and exercises.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "The French Experiment",
+    "url": "https://www.thefrenchexperiment.com/learn-french",
+    "description": "Beginner French lessons with audio, grammar, and simple explanations.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "The French Experiment Stories",
+    "url": "https://www.thefrenchexperiment.com/stories",
+    "description": "French children's stories with audio and English translations.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lingolia French Grammar",
+    "url": "https://francais.lingolia.com/en/grammar",
+    "description": "French grammar explanations with examples and exercises.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lingolia French Vocabulary",
+    "url": "https://francais.lingolia.com/en/vocabulary",
+    "description": "French vocabulary by topic with explanations and examples.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lingolia French Reading",
+    "url": "https://francais.lingolia.com/en/reading",
+    "description": "French reading texts with comprehension practice.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lingolia French Listening",
+    "url": "https://francais.lingolia.com/en/listening",
+    "description": "French listening texts and exercises for comprehension practice.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "ToLearnFrench",
+    "url": "https://www.tolearnfrench.com/",
+    "description": "French lessons, tests, exercises, grammar, and vocabulary practice.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "French by French",
+    "url": "https://www.frenchbyfrench.com/",
+    "description": "Step-by-step French lessons with dialogues and vocabulary.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "The French Tutorial",
+    "url": "https://www.frenchtutorial.com/",
+    "description": "Basic French lessons for phrases, grammar, and pronunciation.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "LanguageGuide French Vocabulary",
+    "url": "https://www.languageguide.org/french/vocabulary/",
+    "description": "Visual French vocabulary with audio pronunciation.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "LanguageGuide French Grammar",
+    "url": "https://www.languageguide.org/french/grammar/",
+    "description": "French grammar reference with explanations and examples.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Le Conjugueur",
+    "url": "https://leconjugueur.lefigaro.fr/",
+    "description": "French verb conjugation tool with grammar and spelling help.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Reverso French Conjugation",
+    "url": "https://conjugator.reverso.net/conjugation-french.html",
+    "description": "French verb conjugation tool with forms and example usage.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "WordReference French",
+    "url": "https://www.wordreference.com/fren/",
+    "description": "French-English dictionary with examples and forum explanations.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Collins French Dictionary",
+    "url": "https://www.collinsdictionary.com/dictionary/english-french",
+    "description": "French-English dictionary with translations, examples, and phrases.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Conjuguemos French Verbs",
+    "url": "https://conjuguemos.com/activities/french/verb/1",
+    "description": "French verb conjugation practice with interactive exercises.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "BBC French",
+    "url": "https://www.bbc.co.uk/languages/french/",
+    "description": "Archived French lessons with phrases, audio, and basic learning material.",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "French Today Free Lessons",
+    "url": "https://www.frenchtoday.com/blog/french-vocabulary/",
+    "description": "French vocabulary, pronunciation, culture, and spoken French lessons.",
     "tagKey": "res.tag.website"
   }
 ]
