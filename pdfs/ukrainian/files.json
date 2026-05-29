@@ -1,8 +1,8 @@
 [
   {
-    "titleKey": "res.reference.title",
-    "descriptionKey": "res.reference.desc",
-    "file": "ukrainian-reference-sheet.pdf",
+    "title": "Ukrainian IPA Alphabet",
+    "description": "A short pronunciation guide to the Ukrainian alphabet using real IPA sounds.",
+    "file": "LinguaLounge_IPA_Ukrainian.pdf",
     "tagKey": "res.tag.reference"
   }
 ]
