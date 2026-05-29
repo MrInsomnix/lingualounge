@@ -1,8 +1,8 @@
 [
   {
-    "titleKey": "res.reference.title",
-    "descriptionKey": "res.reference.desc",
-    "file": "russian-reference-sheet.pdf",
+    "title": "Russian IPA Alphabet",
+    "description": "A short pronunciation guide to the Russian alphabet using real IPA sounds.",
+    "file": "LinguaLounge_IPA_Russian.pdf",
     "tagKey": "res.tag.reference"
   }
 ]
