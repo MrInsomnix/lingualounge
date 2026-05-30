@@ -1,8 +1,86 @@
 [
-  {
-    "title": "Russian IPA Alphabet",
-    "description": "A short pronunciation guide to the Russian alphabet using real IPA sounds.",
-    "file": "LinguaLounge_IPA_Russian.pdf",
-    "tagKey": "res.tag.reference"
-  }
+{
+"title": "Russian IPA Alphabet",
+"description": "A short pronunciation guide to the Russian alphabet using real IPA sounds.",
+"file": "LinguaLounge_IPA_Russian.pdf",
+"tagKey": "res.tag.reference"
+},
+{
+"title": "Russian Verbs of Motion",
+"file": "DLI_Verbs_of_Motion.pdf",
+"description": "Reference guide for Russian determinate and indeterminate verbs of motion with exercises and answers.",
+"tagKey": "res.tag.reference"
+},
+{
+"title": "Russian Phrasebook",
+"file": "Russian_Phrasebook.pdf",
+"description": "Brief Russian speaking vocabulary with useful phrases, translations, and pronunciation help.",
+"tagKey": "res.tag.reference"
+},
+{
+"title": "MGU Russian Alphabet",
+"file": "MGU_Russian_Alphabet.pdf",
+"description": "Russian alphabet guide with letter names, pronunciation notes, and beginner reading support.",
+"tagKey": "res.tag.reference"
+},
+{
+"title": "Russian Alphabet Guide",
+"file": "Russian_Alphabet_Guide.pdf",
+"description": "Short Russian alphabet reference for learning Cyrillic letters and basic pronunciation.",
+"tagKey": "res.tag.reference"
+},
+{
+"title": "Russian FSI Active Introduction",
+"file": "FSI_Active_Introduction.pdf",
+"description": "Introductory Russian course with basic language practice, dialogs, and structured FSI lessons.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "Russian FSI FAST Lessons 1-5",
+"file": "FSI_FAST_Lessons_1-5.pdf",
+"description": "Russian FAST course covering early practical lessons, dialogs, vocabulary, and survival situations.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "Russian FSI FAST Lessons 6-8",
+"file": "FSI_FAST_Lessons_6-8.pdf",
+"description": "Russian FAST course lessons focused on everyday topics like housing, communication, and daily situations.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "Russian FSI FAST Lessons 9-11",
+"file": "FSI_FAST_Lessons_9-11.pdf",
+"description": "Russian FAST course lessons focused on transport, practical situations, vocabulary, and dialogs.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "Russian Peace Corps Language Course",
+"file": "Russian_Peace_Corps_Language_Course_for_Trainees.pdf",
+"description": "Practical Russian course for trainees with vocabulary, dialogs, grammar, and real-life communication tasks.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "Russian Peace Corps Workbook",
+"file": "Russian_Peace_Corps_Language_Competencies_Workbook.pdf",
+"description": "Workbook with Russian grammar, vocabulary, translation, handwriting, and reading comprehension exercises.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "Friendly Russian",
+"file": "Friendly_Russian.pdf",
+"description": "Introductory Russian course for reading Cyrillic, basic grammar, vocabulary, culture, and speech practice.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "The Death of Ivan Ilich",
+"file": "The_Death_of_Ivan_Ilich_Russian_Study_Edition.pdf",
+"description": "Russian study edition with the original text, English translation, parallel text, glosses, and annotations.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "Polyglot Planet Russian Easy Reader 2",
+"file": "Polyglot_Planet_Russian_Easy_Reader_2.pdf",
+"description": "Easy Russian reader with parallel texts for reading and listening practice.",
+"tagKey": "res.tag.book"
+}
 ]
