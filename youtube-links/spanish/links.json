@@ -1,20 +1,92 @@
 [
   {
-    "url": "https://www.youtube.com/results?search_query=learn+Spanish+pronunciation",
-    "titleKey": "res.youtube.pron.title",
-    "descriptionKey": "res.youtube.pron.desc",
+    "title": "Butterfly Spanish",
+    "url": "https://www.youtube.com/@ButterflySpanish",
+    "descriptionKey": "res.spanish.youtube.butterfly.desc",
     "tagKey": "res.tag.youtube"
   },
   {
-    "url": "https://www.youtube.com/results?search_query=learn+Spanish+grammar",
-    "titleKey": "res.youtube.grammar.title",
-    "descriptionKey": "res.youtube.grammar.desc",
+    "title": "Spanish With Qroo Paul",
+    "url": "https://www.youtube.com/@QrooSpanish",
+    "descriptionKey": "res.spanish.youtube.qroo.desc",
     "tagKey": "res.tag.youtube"
   },
   {
-    "url": "https://www.youtube.com/results?search_query=learn+Spanish+listening+practice",
-    "titleKey": "res.youtube.listen.title",
-    "descriptionKey": "res.youtube.listen.desc",
+    "title": "The Spanish Dude",
+    "url": "https://www.youtube.com/@TheSpanishDude",
+    "descriptionKey": "res.spanish.youtube.spanishdude.desc",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "SpanishPod101",
+    "url": "https://www.youtube.com/@spanishpod101",
+    "descriptionKey": "res.spanish.youtube.spanishpod101.desc",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Ten Minute Spanish",
+    "url": "https://www.youtube.com/@tenminutespanish",
+    "descriptionKey": "res.spanish.youtube.tenminute.desc",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Why Not Spanish?",
+    "url": "https://www.youtube.com/@WhyNotSpanish",
+    "descriptionKey": "res.spanish.youtube.whynotspanish.desc",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Spanishland School",
+    "url": "https://www.youtube.com/@SpanishlandSchool",
+    "descriptionKey": "res.spanish.youtube.spanishland.desc",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Real Fast Spanish",
+    "url": "https://www.youtube.com/@RealFastSpanish",
+    "descriptionKey": "res.spanish.youtube.realfast.desc",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Speak Spanish Faster",
+    "url": "https://www.youtube.com/@SpeakSpanishFaster",
+    "descriptionKey": "res.spanish.youtube.speakfaster.desc",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Hola Spanish",
+    "url": "https://www.youtube.com/@HolaSpanish",
+    "descriptionKey": "res.spanish.youtube.holaspanish.desc",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Learn Spanish with SpanishConAna",
+    "url": "https://www.youtube.com/@SpanishConAna",
+    "descriptionKey": "res.spanish.youtube.spanishconana.desc",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Spring Spanish",
+    "url": "https://www.youtube.com/@SpringSpanish",
+    "descriptionKey": "res.spanish.youtube.springspanish.desc",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Coffee Break Spanish",
+    "url": "https://www.youtube.com/@CoffeeBreakSpanish",
+    "descriptionKey": "res.spanish.youtube.coffeebreak.desc",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "BaseLang",
+    "url": "https://www.youtube.com/@BaseLang",
+    "descriptionKey": "res.spanish.youtube.baselang.desc",
+    "tagKey": "res.tag.youtube"
+  },
+  {
+    "title": "Easy Spanish",
+    "url": "https://www.youtube.com/@EasySpanish",
+    "descriptionKey": "res.spanish.youtube.easyspanish.desc",
     "tagKey": "res.tag.youtube"
   }
 ]
