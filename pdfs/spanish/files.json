@@ -4,5 +4,107 @@
     "description": "A short pronunciation guide to the Spanish alphabet using real IPA sounds.",
     "file": "LinguaLounge_IPA_Spanish.pdf",
     "tagKey": "res.tag.reference"
+  },
+  {
+    "title": "Antología abierta de literatura hispana",
+    "description": "C1-C2: An advanced anthology of Hispanic literature for high-level reading, literary analysis, and exposure to major Spanish-language texts.",
+    "file": "Antología abierta de literatura hispana.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Carreras: Español intermedio para las profesiones - Part 1",
+    "description": "B1-B2: An intermediate Spanish textbook focused on professional contexts such as health, business, and politics.",
+    "file": "Carreras - Español intermedio para las profesiones - Part 1.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Carreras: Español intermedio para las profesiones - Part 2",
+    "description": "B1-B2: The second part of an intermediate Spanish textbook for professional communication, grammar practice, and cultural topics.",
+    "file": "Carreras - Español intermedio para las profesiones - Part 2.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Creative Translation for Real-World Contexts: English-Spanish",
+    "description": "B2-C1: An advanced English-Spanish translation textbook for real-world contexts, professional language, and creative translation practice.",
+    "file": "Creative Translation for Real-World Contexts - English-Spanish.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Let's Chat! Spanish - Part 1",
+    "description": "A1-B2: A collection of Spanish conversation activities for speaking practice, classroom use, and communicative language learning.",
+    "file": "Let's Chat! Spanish - Part 1.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Let's Chat! Spanish - Part 2",
+    "description": "A1-B2: The second part of a Spanish conversation activity book designed to build confidence through guided speaking tasks.",
+    "file": "Let's Chat! Spanish - Part 2.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Let's Chat! Spanish - Part 3",
+    "description": "A1-B2: The third part of a Spanish conversation resource with practical speaking activities and communicative classroom prompts.",
+    "file": "Let's Chat! Spanish - Part 3.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Let's Chat! Spanish - Part 4",
+    "description": "A1-B2: The final part of a Spanish speaking-practice collection with activities for interaction, discussion, and fluency building.",
+    "file": "Let's Chat! Spanish - Part 4.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Libro Libre: Beginning Spanish - Part 1",
+    "description": "A1-A2: A beginner Spanish textbook with grammar, vocabulary, cultural topics, and communicative activities.",
+    "file": "Libro Libre - Beginning Spanish - Part 1.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Libro Libre: Beginning Spanish - Part 2",
+    "description": "A1-A2: The second part of a beginning Spanish textbook that continues basic grammar, vocabulary, and communication practice.",
+    "file": "Libro Libre - Beginning Spanish - Part 2.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Libro Libre: Beginning Spanish - Part 3",
+    "description": "A1-A2: The third part of a beginner Spanish textbook with more grammar structures, exercises, and practical language use.",
+    "file": "Libro Libre - Beginning Spanish - Part 3.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Libro Libre: Beginning Spanish - Part 4",
+    "description": "A1-A2: The final part of a beginner Spanish textbook for continuing grammar, vocabulary, and communicative practice.",
+    "file": "Libro Libre - Beginning Spanish - Part 4.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Manual de Redacción",
+    "description": "C1: An advanced Spanish composition guide for improving academic writing, diction, false cognates, and reading analysis.",
+    "file": "Manual de Redacción.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Semillas: Elementary Spanish I",
+    "description": "A0-A1: A comprehensive introductory Spanish textbook with reading, listening, speaking, writing, and integrated grammar practice.",
+    "file": "Semillas - Elementary Spanish I.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Semillas: Elementary Spanish II",
+    "description": "A2-B1: A continuation of Elementary Spanish I with routines, past-tense practice, preferences, adventures, and communicative projects.",
+    "file": "Semillas - Elementary Spanish II.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Yo puedo: para empezar",
+    "description": "A0-A1: A true-beginner Spanish textbook covering pronunciation, basic communication, home, community, and simple future plans.",
+    "file": "Yo puedo - para empezar.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Yo puedo: segundos pasos",
+    "description": "A2: A second-semester Spanish textbook covering shopping, clothing, food, restaurants, study abroad, and giving advice.",
+    "file": "Yo puedo - segundos pasos.pdf",
+    "tagKey": "res.tag.book"
   }
 ]
