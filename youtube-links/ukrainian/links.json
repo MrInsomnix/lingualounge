@@ -1,20 +1,122 @@
 [
-  {
-    "url": "https://www.youtube.com/results?search_query=learn+Ukrainian+pronunciation",
-    "titleKey": "res.youtube.pron.title",
-    "descriptionKey": "res.youtube.pron.desc",
-    "tagKey": "res.tag.youtube"
-  },
-  {
-    "url": "https://www.youtube.com/results?search_query=learn+Ukrainian+grammar",
-    "titleKey": "res.youtube.grammar.title",
-    "descriptionKey": "res.youtube.grammar.desc",
-    "tagKey": "res.tag.youtube"
-  },
-  {
-    "url": "https://www.youtube.com/results?search_query=learn+Ukrainian+listening+practice",
-    "titleKey": "res.youtube.listen.title",
-    "descriptionKey": "res.youtube.listen.desc",
-    "tagKey": "res.tag.youtube"
-  }
+{
+"title": "Ukrainian Lessons",
+"description": "Structured Ukrainian lessons with alphabet practice, pronunciation, vocabulary, grammar, and learner-friendly explanations.",
+"url": "https://www.youtube.com/@UkrainianLessons",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Speak Ukrainian",
+"description": "Beginner and intermediate Ukrainian lessons with vocabulary, grammar, pronunciation, idioms, and cultural explanations.",
+"url": "https://www.youtube.com/@SpeakUkrainian",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Ukrainian Language",
+"description": "Clear Ukrainian lessons for beginners with alphabet, reading, basic grammar, phrases, and listening practice.",
+"url": "https://www.youtube.com/@Ukrainianlanguage",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Let's Learn Ukrainian",
+"description": "Ukrainian lessons focused on useful vocabulary, verbs, phrases, grammar patterns, and real-life language practice.",
+"url": "https://www.youtube.com/@LetsLearnUkrainian",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "VERBA SCHOOL",
+"description": "Ukrainian lessons for beginners with alphabet practice, personal pronouns, greetings, noun genders, grammar, and vocabulary.",
+"url": "https://www.youtube.com/@VERBA_SCHOOL",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Ukrainian with Ira",
+"description": "Ukrainian lessons for foreigners with beginner phrases, pronunciation, vocabulary, and simple grammar explanations.",
+"url": "https://www.youtube.com/@UkrainianWithIra",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Learn Ukrainian with Tetiana",
+"description": "Ukrainian language lessons with grammar tips, expressions, pronunciation help, and beginner-friendly explanations.",
+"url": "https://www.youtube.com/@Learn_Ukrainian_with_Tetiana",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "bazikschool",
+"description": "Short Ukrainian lessons for beginners with vocabulary, grammar, phrases, and practical everyday language.",
+"url": "https://www.youtube.com/@bazikschool",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Fluent Fast Ukrainian",
+"description": "Beginner Ukrainian lessons using a nonstop speaking method with alphabet, phrases, pronunciation, and speaking practice.",
+"url": "https://www.youtube.com/@FluentFastUA",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Acquire Ukrainian",
+"description": "Comprehensible Ukrainian input for learners with beginner-friendly stories, everyday topics, and natural listening practice.",
+"url": "https://www.youtube.com/@acquireukrainian",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Ukrainian with Anna",
+"description": "Ukrainian learning videos with culture, beginner phrases, vocabulary, cartoons, and everyday language practice.",
+"url": "https://www.youtube.com/@ukrainian_with_anna",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Easy Ukrainian",
+"description": "Ukrainian learning videos focused on pronunciation, useful phrases, street-style language practice, and simple explanations.",
+"url": "https://www.youtube.com/channel/UCXcISBn2Spnboxx1dLH1g-Q",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Immersive Ukrainian wHanna",
+"description": "Immersive Ukrainian videos with stories, listening practice, useful expressions, and beginner-friendly Ukrainian input.",
+"url": "https://www.youtube.com/@Ukrainian.Language",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Learn Ukrainian With Roman",
+"description": "Ukrainian lessons with grammar, pronunciation, writing, beginner bootcamp lessons, and practical study advice.",
+"url": "https://www.youtube.com/@LearnUkrainianWithRoman",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Ukrainian Learner",
+"description": "Ukrainian lessons for learners with daily phrases, grammar lessons, pronunciation practice, vocabulary, and conversations.",
+"url": "https://www.youtube.com/@ukrlearner",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Learn Ukrainian with Vakulenko",
+"description": "Ukrainian learning videos with grammar tips, vocabulary, music-based practice, and cultural language examples.",
+"url": "https://www.youtube.com/@LearnUkrainianwithVakulenko",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Ukrainian with Mykyta",
+"description": "Ukrainian lessons for foreign learners with grammar tips, practical language advice, expressions, and cultural notes.",
+"url": "https://www.youtube.com/@UkrainianwithMykyta",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Learn Ukrainian with me",
+"description": "Beginner Ukrainian lessons with free course videos, basic phrases, grammar, worksheets, songs, and simple stories.",
+"url": "https://www.youtube.com/@LearnUkrainianwithme",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "UFFORia Ukrainian for Foreigners",
+"description": "Ukrainian lessons for foreigners with alphabet videos, pronunciation practice, beginner phrases, and simple language explanations.",
+"url": "https://www.youtube.com/@ufforiaukrainianforforeign7952",
+"tagKey": "res.tag.youtube"
+},
+{
+"title": "Almanturka",
+"description": "Ukrainian beginner videos with simple phrases, basic vocabulary, and multilingual explanations for early learners.",
+"url": "https://www.youtube.com/@Almanturka",
+"tagKey": "res.tag.youtube"
+}
 ]
