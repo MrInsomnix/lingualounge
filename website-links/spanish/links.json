@@ -2,19 +2,253 @@
   {
     "title": "SpanishDict",
     "url": "https://www.spanishdict.com/",
-    "descriptionKey": "res.website.desc",
+    "descriptionKey": "res.spanish.website.spanishdict.desc",
     "tagKey": "res.tag.website"
   },
   {
     "title": "StudySpanish",
     "url": "https://studyspanish.com/",
-    "descriptionKey": "res.website.desc",
+    "descriptionKey": "res.spanish.website.studyspanish.desc",
     "tagKey": "res.tag.website"
   },
   {
     "title": "Wiktionary Spanish",
     "url": "https://en.wiktionary.org/wiki/Category:Spanish_language",
-    "descriptionKey": "res.website.desc",
+    "descriptionKey": "res.spanish.website.wiktionary.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "WordReference Spanish",
+    "url": "https://www.wordreference.com/es/",
+    "descriptionKey": "res.spanish.website.wordreference.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lawless Spanish",
+    "url": "https://www.lawlessspanish.com/",
+    "descriptionKey": "res.spanish.website.lawless.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lingolia Spanish",
+    "url": "https://espanol.lingolia.com/en/",
+    "descriptionKey": "res.spanish.website.lingolia.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Conjuguemos Spanish",
+    "url": "https://conjuguemos.com/activities/spanish/grammar/1",
+    "descriptionKey": "res.spanish.website.conjuguemos.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "123TeachMe",
+    "url": "https://www.123teachme.com/",
+    "descriptionKey": "res.spanish.website.123teachme.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Todo-Claro Spanish",
+    "url": "https://www.todo-claro.com/e_index.php",
+    "descriptionKey": "res.spanish.website.todoclaro.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Lingua Spanish Grammar",
+    "url": "https://lingua.com/spanish/grammar/",
+    "descriptionKey": "res.spanish.website.lingua.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "SpanishBOOM",
+    "url": "https://spanishboom.com/",
+    "descriptionKey": "res.spanish.website.spanishboom.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Practica Español",
+    "url": "https://www.practicaespanol.com/",
+    "descriptionKey": "res.spanish.website.practicaespanol.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "OpenLearn Spanish",
+    "url": "https://www.open.edu/openlearn/languages/free-courses",
+    "descriptionKey": "res.spanish.website.openlearn.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "FSI Spanish Courses",
+    "url": "https://www.fsi-language-courses.org/spanish/",
+    "descriptionKey": "res.spanish.website.fsi.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Live Lingua Spanish Courses",
+    "url": "https://www.livelingua.com/courses/spanish",
+    "descriptionKey": "res.spanish.website.livelingua.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Yojik FSI Spanish",
+    "url": "https://fsi-languages.yojik.eu/languages/FSI/fsi-spanish.html",
+    "descriptionKey": "res.spanish.website.yojik.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "DLI GLOSS Spanish",
+    "url": "https://gloss.dliflc.edu/",
+    "descriptionKey": "res.spanish.website.gloss.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "University of Texas Spanish Proficiency Exercises",
+    "url": "https://www.laits.utexas.edu/spe/",
+    "descriptionKey": "res.spanish.website.utproficiency.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Spanish Grammar in Context",
+    "url": "https://grammar.spanishintexas.org/",
+    "descriptionKey": "res.spanish.website.spanishintexas.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Bowdoin Spanish Grammar",
+    "url": "https://tildesites.bowdoin.edu/~eyepes/newgr/ats/",
+    "descriptionKey": "res.spanish.website.bowdoin.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Colby Spanish Language and Culture",
+    "url": "https://personal.colby.edu/~bknelson/SLC/",
+    "descriptionKey": "res.spanish.website.colby.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "The Spanish Experiment",
+    "url": "https://www.thespanishexperiment.com/",
+    "descriptionKey": "res.spanish.website.spanishexperiment.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Language Transfer Spanish",
+    "url": "https://www.languagetransfer.org/complete-spanish",
+    "descriptionKey": "res.spanish.website.languagetransfer.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Dreaming Spanish",
+    "url": "https://www.dreaming.com/spanish",
+    "descriptionKey": "res.spanish.website.dreamingspanish.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Notes in Spanish",
+    "url": "https://www.notesinspanish.com/",
+    "descriptionKey": "res.spanish.website.notesinspanish.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Coffee Break Spanish",
+    "url": "https://coffeebreaklanguages.com/coffeebreakspanish/",
+    "descriptionKey": "res.spanish.website.coffeebreak.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "SpanishPod101",
+    "url": "https://www.spanishpod101.com/",
+    "descriptionKey": "res.spanish.website.spanishpod101.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Duolingo Spanish",
+    "url": "https://www.duolingo.com/course/es/en/Learn-Spanish",
+    "descriptionKey": "res.spanish.website.duolingo.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Memrise Spanish",
+    "url": "https://www.memrise.com/en/learn-spanish/spanish-course",
+    "descriptionKey": "res.spanish.website.memrise.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Busuu Spanish",
+    "url": "https://www.busuu.com/en/course/learn-spanish-online",
+    "descriptionKey": "res.spanish.website.busuu.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Clozemaster Spanish",
+    "url": "https://www.clozemaster.com/languages/learn-spanish-online",
+    "descriptionKey": "res.spanish.website.clozemaster.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "LanguageGuide Spanish",
+    "url": "https://www.languageguide.org/spanish/",
+    "descriptionKey": "res.spanish.website.languageguide.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Digital Dialects Spanish",
+    "url": "https://www.digitaldialects.com/Spanish.htm",
+    "descriptionKey": "res.spanish.website.digitaldialects.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "OnlineFreeSpanish",
+    "url": "https://www.onlinefreespanish.com/",
+    "descriptionKey": "res.spanish.website.onlinefreespanish.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Spanish Games",
+    "url": "https://www.spanish-games.net/",
+    "descriptionKey": "res.spanish.website.spanishgames.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Learn Practical Spanish Online",
+    "url": "https://www.learnpracticalspanishonline.com/",
+    "descriptionKey": "res.spanish.website.learnpracticalspanish.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Conjugation.org Spanish",
+    "url": "https://www.conjugation.org/",
+    "descriptionKey": "res.spanish.website.conjugationorg.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Forvo Spanish Pronunciation",
+    "url": "https://forvo.com/languages/es/",
+    "descriptionKey": "res.spanish.website.forvo.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Reverso Context Spanish",
+    "url": "https://context.reverso.net/translation/spanish-english/",
+    "descriptionKey": "res.spanish.website.reversocontext.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Tatoeba Spanish Sentences",
+    "url": "https://tatoeba.org/en/sentences/search?from=spa",
+    "descriptionKey": "res.spanish.website.tatoeba.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "Readlang Spanish",
+    "url": "https://readlang.com/spanish",
+    "descriptionKey": "res.spanish.website.readlang.desc",
+    "tagKey": "res.tag.website"
+  },
+  {
+    "title": "LyricsTraining Spanish",
+    "url": "https://lyricstraining.com/es",
+    "descriptionKey": "res.spanish.website.lyricstraining.desc",
     "tagKey": "res.tag.website"
   }
 ]
