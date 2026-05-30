@@ -1,8 +1,98 @@
 [
   {
-    "title": "Ukrainian IPA Alphabet",
+    "title": "LinguaLounge IPA Ukrainian",
     "description": "A short pronunciation guide to the Ukrainian alphabet using real IPA sounds.",
-    "file": "LinguaLounge_IPA_Ukrainian.pdf",
+    "file": "LinguaLounge_IPA_Ukrainian(3).pdf",
+    "tagKey": "res.tag.reference"
+  },
+  {
+    "title": "Survival Ukrainian Language Lessons",
+    "description": "A beginner-friendly Peace Corps guide covering basic Ukrainian phrases, pronunciation, greetings, food, transport, emergencies, and everyday topics.",
+    "file": "Survival_Ukrainian_Language_Lessons_A1.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Peace Corps Ukrainian Language Manual Part I",
+    "description": "A practical beginner Ukrainian language manual with English explanations, everyday vocabulary, dialogues, grammar notes, and cultural context.",
+    "file": "Peace_Corps_Ukrainian_Language_Manual_Part_I_A1.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Peace Corps Ukrainian Language Manual Part II",
+    "description": "A continuation of the Peace Corps Ukrainian course with more beginner-level vocabulary, grammar, communication practice, and cultural lessons.",
+    "file": "Peace_Corps_Ukrainian_Language_Manual_Part_II_A1-A2.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Peace Corps Ukrainian Language Manual Part III",
+    "description": "An upper-beginner Peace Corps Ukrainian manual expanding practical communication, grammar, and real-life language skills.",
+    "file": "Peace_Corps_Ukrainian_Language_Manual_Part_III_A2.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Classroom Communication Ukrainian",
+    "description": "A competency-based Ukrainian course for classroom and self-study with dialogues, vocabulary, grammar notes, pronunciation help, and cultural topics.",
+    "file": "Classroom_Communication_Ukrainian_A1-A2.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Let's Learn Ukrainian",
+    "description": "A large Ukrainian coursebook for foreign learners with 23 lessons, dialogues, English translations, exercises, answer keys, vocabulary, and grammar support.",
+    "file": "Lets_Learn_Ukrainian_A1-B1.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Ukrainian Self-Taught",
+    "description": "A classic self-study Ukrainian textbook with phonetic pronunciation, vocabulary, elementary grammar, conversation practice, and travel phrases.",
+    "file": "Ukrainian_Self_Taught_A1-A2.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Ukrainian for Beginners",
+    "description": "A beginner Ukrainian textbook covering the alphabet, pronunciation, basic grammar, reading practice, and simple Ukrainian communication.",
+    "file": "Ukrainian for Beginners.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Ukrainian for Undergraduates",
+    "description": "A university-level Ukrainian textbook for learners with previous knowledge, including phonetics, grammar, reading, and structured language practice.",
+    "file": "Ukrainian for Undergraduates.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "Ukrainian Grammar",
+    "description": "A detailed Ukrainian grammar reference for intermediate and advanced learners, covering core grammar rules and language structure.",
+    "file": "Ukrainian Grammar.pdf",
+    "tagKey": "res.tag.book"
+  },
+  {
+    "title": "PodorozhiUA Grammar Reference",
+    "description": "A clear Ukrainian grammar reference covering nouns, cases, adjectives, pronouns, prepositions, verbs, tenses, aspect, and common sentence functions.",
+    "file": "grammar-reference-ua.pdf",
+    "tagKey": "res.tag.reference"
+  },
+  {
+    "title": "500 Ukrainian Verbs - Look Inside",
+    "description": "A Ukrainian verb reference sample with imperfective and perfective aspects, conjugation patterns, English translations, and example sentences.",
+    "file": "500_Ukrainian_Verbs_Look_Inside_B1-C2.pdf",
+    "tagKey": "res.tag.reference"
+  },
+  {
+    "title": "1000 Most Useful Ukrainian Words - Look Inside",
+    "description": "A vocabulary sample for learning high-frequency Ukrainian words with English translations, example sentences, and study guidance.",
+    "file": "1000_Most_Useful_Ukrainian_Words_Look_Inside_A1-B2.pdf",
+    "tagKey": "res.tag.reference"
+  },
+  {
+    "title": "Ukrainian Handwriting Book Sample",
+    "description": "A handwriting practice sample for learning Ukrainian cursive, printed letters, pronunciation basics, and Cyrillic writing practice.",
+    "file": "Ukrainian_Handwriting_Book_Sample_A1-A2.pdf",
+    "tagKey": "res.tag.reference"
+  },
+  {
+    "title": "Advanced Ukrainian Syllabus",
+    "description": "An advanced Ukrainian course syllabus focused on literature, media, politics, translation, research, and high-level communication.",
+    "file": "Advanced_Ukrainian_Syllabus_C1-C2.pdf",
     "tagKey": "res.tag.reference"
   }
 ]
