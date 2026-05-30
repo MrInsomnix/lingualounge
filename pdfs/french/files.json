@@ -6,6 +6,12 @@
 "tagKey": "res.tag.reference"
 },
 {
+"title": "Collins French 3000 Words and Phrases",
+"file": "Collins_French_3000_words_and_phrases.pdf",
+"description": "Essential French vocabulary and phrases sorted by everyday topics.",
+"tagKey": "res.tag.book"
+},
+{
 "title": "Français inclusif 101",
 "file": "Francais_inclusif_101.pdf",
 "description": "French 101: Interactive textbook with vocabulary, grammar, exercises, and cultural topics.",
@@ -57,12 +63,6 @@
 "title": "Français interactif",
 "file": "Francais_interactif.pdf",
 "description": "Open French textbook with vocabulary, grammar, phonetics, culture, exercises, and classroom activities.",
-"tagKey": "res.tag.book"
-},
-{
-"title": "Collins French 3000 Words and Phrases",
-"file": "Collins_French_3000_words_and_phrases.pdf",
-"description": "Essential French vocabulary and phrases sorted by everyday topics.",
 "tagKey": "res.tag.book"
 }
 ]
