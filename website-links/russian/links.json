@@ -1,20 +1,224 @@
 [
-  {
-    "title": "Russian Wiktionary category",
-    "url": "https://en.wiktionary.org/wiki/Category:Russian_language",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  },
-  {
-    "title": "Omniglot Russian",
-    "url": "https://www.omniglot.com/writing/russian.htm",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  },
-  {
-    "title": "Forvo Russian pronunciation",
-    "url": "https://forvo.com/languages/ru/",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  }
+{
+"title": "Russian Wiktionary category",
+"url": "https://en.wiktionary.org/wiki/Category:Russian_language",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Omniglot Russian",
+"url": "https://www.omniglot.com/writing/russian.htm",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Forvo Russian pronunciation",
+"url": "https://forvo.com/languages/ru/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Russian TypeIt",
+"url": "https://russian.typeit.org",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "RussianForFree",
+"url": "https://www.russianforfree.com/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "RussianForFree grammar exercises",
+"url": "https://www.russianforfree.com/exercises.php",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "RussianForFree dialogues",
+"url": "https://www.russianforfree.com/dialogues.php",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "RussianForFree texts",
+"url": "https://www.russianforfree.com/texts.php",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Learn Russian Step by Step",
+"url": "https://learnrussianstepbystep.com/en/learn-russian/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Everyday Russian",
+"url": "https://everydayrussianlanguage.com/en/home/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Everyday Russian grammar tests",
+"url": "https://everydayrussianlanguage.com/en/russian-grammar-tests/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "RussianLessons.net",
+"url": "https://www.russianlessons.net/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "RussianLessons.net alphabet",
+"url": "https://www.russianlessons.net/lessons/lesson1_main.php",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "RussianLessons.net grammar",
+"url": "https://www.russianlessons.net/grammar/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "RussianLessons.net vocabulary",
+"url": "https://www.russianlessons.net/vocabulary/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Russian For Everyone",
+"url": "https://www.russianforeveryone.com/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Master Russian",
+"url": "https://masterrussian.com/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Study Languages Online Russian grammar",
+"url": "https://www.study-languages-online.com/russian-grammar.html",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Study Languages Online Russian vocabulary",
+"url": "https://www.study-languages-online.com/russian-vocabulary.html",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Amazing Russian",
+"url": "https://www.amazingrussian.com/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Amazing Russian grammar",
+"url": "https://www.amazingrussian.com/russian-grammar",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Amazing Russian listening practice",
+"url": "https://www.amazingrussian.com/listening-speaking-practice",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Amazing Russian vocabulary",
+"url": "https://www.amazingrussian.com/learn-more-vocabulary",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Mezhdu Nami",
+"url": "https://mezhdunami.org/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Russky.info",
+"url": "https://russky.info/?hl=en",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Russian Grammar Drills",
+"url": "https://russiangrammardrills.com/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Russian Grammar Practice",
+"url": "https://russiangrammarpractice.com/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Pa-russki grammar tests",
+"url": "https://pa-russki.com/grammar-tests/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "TORFL sample tests",
+"url": "https://hcmc.uvic.ca/torfl/sampleTests.php",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "SPbU TORFL preparation",
+"url": "https://testingcenter.spbu.ru/en/exam-preparation.html",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Russificate TORFL materials",
+"url": "https://russianschoolrussificate.com/free-materials-for-self-preparation-for-the-torfl-test/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "OpenRussian",
+"url": "https://en.openrussian.org/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "OpenRussian A1 vocabulary",
+"url": "https://en.openrussian.org/vocab/A1",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "RussianPod101",
+"url": "https://www.russianpod101.com",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "LingQ Russian",
+"url": "https://www.lingq.com/en/learn-russian-online/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Russian Wikibook",
+"url": "https://en.wikibooks.org/wiki/Russian",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Cooljugator Russian",
+"url": "https://cooljugator.com/ru",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+}
 ]
