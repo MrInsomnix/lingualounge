@@ -1,20 +1,68 @@
 [
-  {
-    "url": "https://www.youtube.com/results?search_query=learn+Russian+pronunciation",
-    "titleKey": "res.youtube.pron.title",
-    "descriptionKey": "res.youtube.pron.desc",
-    "tagKey": "res.tag.youtube"
-  },
-  {
-    "url": "https://www.youtube.com/results?search_query=learn+Russian+grammar",
-    "titleKey": "res.youtube.grammar.title",
-    "descriptionKey": "res.youtube.grammar.desc",
-    "tagKey": "res.tag.youtube"
-  },
-  {
-    "url": "https://www.youtube.com/results?search_query=learn+Russian+listening+practice",
-    "titleKey": "res.youtube.listen.title",
-    "descriptionKey": "res.youtube.listen.desc",
-    "tagKey": "res.tag.youtube"
-  }
+{
+"url": "https://www.youtube.com/@RussianWithMax",
+"titleKey": "res.youtube.russianWithMax.title",
+"descriptionKey": "res.youtube.russianWithMax.desc",
+"tagKey": "res.tag.youtube"
+},
+{
+"url": "https://www.youtube.com/@russianprogress",
+"titleKey": "res.youtube.russianProgress.title",
+"descriptionKey": "res.youtube.russianProgress.desc",
+"tagKey": "res.tag.youtube"
+},
+{
+"url": "https://www.youtube.com/@EasyRussianVideos",
+"titleKey": "res.youtube.easyRussian.title",
+"descriptionKey": "res.youtube.easyRussian.desc",
+"tagKey": "res.tag.youtube"
+},
+{
+"url": "https://www.youtube.com/BeFluentinRussian",
+"titleKey": "res.youtube.beFluentRussian.title",
+"descriptionKey": "res.youtube.beFluentRussian.desc",
+"tagKey": "res.tag.youtube"
+},
+{
+"url": "https://www.youtube.com/@RealRussianClub",
+"titleKey": "res.youtube.realRussianClub.title",
+"descriptionKey": "res.youtube.realRussianClub.desc",
+"tagKey": "res.tag.youtube"
+},
+{
+"url": "https://www.youtube.com/c/AmazingRussian",
+"titleKey": "res.youtube.amazingRussian.title",
+"descriptionKey": "res.youtube.amazingRussian.desc",
+"tagKey": "res.tag.youtube"
+},
+{
+"url": "https://www.youtube.com/@russianpod101",
+"titleKey": "res.youtube.russianPod101.title",
+"descriptionKey": "res.youtube.russianPod101.desc",
+"tagKey": "res.tag.youtube"
+},
+{
+"url": "https://www.youtube.com/c/comprehensiblerussian",
+"titleKey": "res.youtube.comprehensibleRussian.title",
+"descriptionKey": "res.youtube.comprehensibleRussian.desc",
+"tagKey": "res.tag.youtube"
+},
+{
+"url": "https://www.youtube.com/c/RussianfromRussia",
+"titleKey": "res.youtube.russianFromRussia.title",
+"descriptionKey": "res.youtube.russianFromRussia.desc",
+"tagKey": "res.tag.youtube"
+},
+{
+"url": "https://www.youtube.com/c/DenisFedorov",
+"titleKey": "res.youtube.denisFedorov.title",
+"descriptionKey": "res.youtube.denisFedorov.desc",
+"tagKey": "res.tag.youtube"
+},
+{
+"url": "https://www.youtube.com/c/BoostYourRussian",
+"titleKey": "res.youtube.boostYourRussian.title",
+"descriptionKey": "res.youtube.boostYourRussian.desc",
+"tagKey": "res.tag.youtube"
+}
 ]
