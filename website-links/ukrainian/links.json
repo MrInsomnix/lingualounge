@@ -1,20 +1,260 @@
 [
-  {
-    "title": "UkrainianLessons",
-    "url": "https://www.ukrainianlessons.com/",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  },
-  {
-    "title": "Omniglot Ukrainian",
-    "url": "https://www.omniglot.com/writing/ukrainian.htm",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  },
-  {
-    "title": "Wiktionary Ukrainian",
-    "url": "https://en.wiktionary.org/wiki/Category:Ukrainian_language",
-    "descriptionKey": "res.website.desc",
-    "tagKey": "res.tag.website"
-  }
+{
+"title": "UkrainianCourse",
+"url": "https://www.ukrainiancourse.com/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "PodorozhiUA",
+"url": "https://podorozhiua.com/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "PodorozhiUA Grammar Reference",
+"url": "https://podorozhiua.com/grammar-reference/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "OpenLearn Ukrainian Language and Culture",
+"url": "https://www.open.edu/openlearn/languages/introduction-ukrainian-language-and-culture",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Kyiv-Mohyla Ukrainian for Beginners",
+"url": "https://www.ukma.edu.ua/eng/ufl/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Live Lingua Ukrainian",
+"url": "https://www.livelingua.com/courses/Ukrainian",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "FSI Ukrainian Course",
+"url": "https://www.fsi-language-courses.org/ukrainian/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "101Languages Ukrainian Peace Corps Course",
+"url": "https://www.101languages.net/ukrainian/ukrainian-peace-corps-course/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "DLI GLOSS Ukrainian",
+"url": "https://gloss.dliflc.edu/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "DLI Headstart2 Ukrainian",
+"url": "https://hs2.dliflc.edu/ukrainian.html",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "UARU Free Ukrainian Course",
+"url": "https://uaru-online.com/free-ukrainian-course",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "UARU Listen and Read Ukrainian",
+"url": "https://uaru-online.com/listen-and-read-in-ukrainian",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "UkrainianPro Free Course",
+"url": "https://www.ukrainianpro.com/home/beginners/free-ukrainian-language-course/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Learn Ukrainian Pro",
+"url": "https://learnukrainian.pro/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Ukrainian Grammar",
+"url": "https://ukrainiangrammar.com/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Read Ukrainian",
+"url": "https://www.ukrainianlanguage.org.uk/read/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "LingoHut Ukrainian",
+"url": "https://www.lingohut.com/en/l83/learn-ukrainian",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Loecsen Ukrainian",
+"url": "https://www.loecsen.com/en/learn-ukrainian",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "MyLanguages Ukrainian",
+"url": "https://mylanguages.org/learn_ukrainian.php",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "MyLanguages Ukrainian Audio",
+"url": "https://www.mylanguages.org/ukrainian_audio.php",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Learn101 Ukrainian",
+"url": "https://learn101.org/ukrainian.php",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "IE Languages Ukrainian",
+"url": "https://ielanguages.com/ukrainian.html",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Omniglot Ukrainian",
+"url": "https://www.omniglot.com/writing/ukrainian.htm",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Wikibooks Ukrainian",
+"url": "https://en.wikibooks.org/wiki/Ukrainian",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Wiktionary Ukrainian",
+"url": "https://en.wiktionary.org/wiki/Category:Ukrainian_language",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Wiktionary Ukrainian Lemmas",
+"url": "https://en.wiktionary.org/wiki/Category:Ukrainian_lemmas",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Wiktionary Ukrainian Verbs",
+"url": "https://en.wiktionary.org/wiki/Category:Ukrainian_verbs",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Tatoeba Ukrainian-English Sentences",
+"url": "https://tatoeba.org/en/sentences/search?from=ukr&to=eng",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "ManyThings English-Ukrainian Sentences",
+"url": "https://www.manythings.org/bilingual/ukr/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Forvo Ukrainian",
+"url": "https://forvo.com/languages/uk/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Glosbe Ukrainian-English",
+"url": "https://glosbe.com/uk/en",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Ukrainian StackExchange",
+"url": "https://ukrainian.stackexchange.com/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Goethe-Verlag English-Ukrainian Phrasebook",
+"url": "https://www.goethe-verlag.com/book2/EN/ENUK/ENUK002.HTM",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Refugee Phrasebook Ukrainian",
+"url": "https://refugeephrasebook.de/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "The Talking Ukrainian Phrasebook",
+"url": "https://folkways.today/talking-ukrainian-phrasebook/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Wikipedia Ukrainian Language",
+"url": "https://en.wikipedia.org/wiki/Ukrainian_language",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Wikipedia Ukrainian Alphabet",
+"url": "https://en.wikipedia.org/wiki/Ukrainian_alphabet",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Wikipedia Ukrainian Grammar",
+"url": "https://en.wikipedia.org/wiki/Ukrainian_grammar",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Wikipedia Ukrainian Phonology",
+"url": "https://en.wikipedia.org/wiki/Ukrainian_phonology",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Lexilogos Ukrainian Dictionary",
+"url": "https://www.lexilogos.com/english/ukrainian_dictionary.htm",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "E2U English-Ukrainian Dictionary",
+"url": "https://e2u.org.ua/",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Cooljugator Ukrainian",
+"url": "https://cooljugator.com/uk",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+},
+{
+"title": "Verbix Ukrainian Verbs",
+"url": "https://www.verbix.com/languages/ukrainian",
+"descriptionKey": "res.website.desc",
+"tagKey": "res.tag.website"
+}
 ]
