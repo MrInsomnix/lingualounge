@@ -1,8 +1,68 @@
 [
-  {
-    "title": "French IPA Alphabet",
-    "description": "A short pronunciation guide to the French alphabet using real IPA sounds.",
-    "file": "LinguaLounge_IPA_French.pdf",
-    "tagKey": "res.tag.reference"
-  }
+{
+"title": "French IPA Alphabet",
+"description": "A short pronunciation guide to the French alphabet using real IPA sounds.",
+"file": "LinguaLounge_IPA_French.pdf",
+"tagKey": "res.tag.reference"
+},
+{
+"title": "Français inclusif 101",
+"file": "Francais_inclusif_101.pdf",
+"description": "French 101: Interactive textbook with vocabulary, grammar, exercises, and cultural topics.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "Français inclusif 102",
+"file": "Francais_inclusif_102.pdf",
+"description": "French 102: Interactive textbook with vocabulary, grammar, exercises, food, city life, holidays, and home topics.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "Français inclusif 201",
+"file": "Francais_inclusif_201.pdf",
+"description": "French 201: Interactive textbook with vocabulary, grammar, exercises, media, health, studies, and work topics.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "French Wikibook",
+"file": "French_Wikibook.pdf",
+"description": "Open French textbook with introductory lessons, level-based chapters, grammar, texts, and exercises.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "Introduction to French",
+"file": "Introduction_to_French_2nd_ed.pdf",
+"description": "Beginner French textbook with greetings, numbers, articles, verbs, family, city, hobbies, weather, and food.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "FSI French Basic Course Vol. 1",
+"file": "FSI_French_Basic_Course_Vol_1.pdf",
+"description": "Intensive French course with dialogues, drills, grammar notes, vocabulary, situations, and written exercises.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "FSI French Basic Course Vol. 2",
+"file": "FSI_French_Basic_Course_Vol_2.pdf",
+"description": "Second FSI volume with advanced dialogues, grammar drills, vocabulary practice, readings, and written exercises.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "FSI French Phonology",
+"file": "FSI_French_Phonology.pdf",
+"description": "French pronunciation course focused on sounds, accents, intonation, vowels, consonants, and reading practice.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "Français interactif",
+"file": "Francais_interactif.pdf",
+"description": "Open French textbook with vocabulary, grammar, phonetics, culture, exercises, and classroom activities.",
+"tagKey": "res.tag.book"
+},
+{
+"title": "Collins French 3000 Words and Phrases",
+"file": "Collins_French_3000_words_and_phrases.pdf",
+"description": "Essential French vocabulary and phrases sorted by everyday topics.",
+"tagKey": "res.tag.book"
+}
 ]
